@@ -21,7 +21,7 @@
       "name": "blog"
     }
   ],
-  
+
   "to_bake": [
     {
       "template": "bake-book",
@@ -29,7 +29,8 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
-    },{
+    },
+    {
       "template": "bake-blog",
       "data": "blog",
       "array": "blogs",
